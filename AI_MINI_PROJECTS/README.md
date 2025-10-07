@@ -1,1 +1,3 @@
-This is my sample codes of jaclang
+Description: Collection of small AI projects and experiments
+
+Technologies: Various AI frameworks
