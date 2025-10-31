@@ -135,7 +135,7 @@ See [`requirements.txt`](requirements.txt) for the full list. Key dependencies:
 - `jac-cloud` – Jac cloud utilities
 - `google-generativeai` – Gemini API client
 - `streamlit` – Web UI framework
-- `tree-sitter` – Language parsing library
+
 - `byllm` – LLM integration utilities
 - `requests` – HTTP library
 
