@@ -74,35 +74,20 @@ genius/
 
 ## Usage
 
-### Option 1: Command-Line (Jac)
+### step 1: Command-Line (Jac)
 
 Run the Jac pipeline interactively:
 
 ```bash
-jac run main.jac
+jac serve main.jac
 ```
-
-You'll be prompted to enter a GitHub repository URL. The system will:
-- Clone the repo
-- Summarize the README
-- Parse source files
-- Build a Code Context Graph
-- Generate a Markdown report at `output/repo_summary.md`
-
-**Non-interactive mode** (pipe URL):
-
-```bash
-printf "https://github.com/owner/repo.git\n" | jac run main.jac
-```
-
----
-
-### Option 2: Streamlit Web UI
+open a new terminal 
+### step 2: Streamlit Web UI
 
 Launch the Streamlit frontend:
 
 ```bash
-streamlit run output/app.py
+streamlit run app.py
 ```
 
 Then:
