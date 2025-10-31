@@ -223,7 +223,7 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 - **Jac Language**: For the agentic orchestration framework
 - **Google Gemini**: For AI-powered summaries and explanations
 - **Streamlit**: For the interactive web UI
-- **Tree-sitter**: For language parsing
+
 
 ---
 
