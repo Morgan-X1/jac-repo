@@ -1,0 +1,8 @@
+
+jaclang
+jac-cloud
+jac-streamlit
+requests
+byllm
+js2py
+google-generativeai
